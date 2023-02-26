@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there i'm a new ALX trainee i love sharing knowledge and being collaborative.👋
+🌱 I’m currently learning ...
 <!--
 **AbdullahKhames/AbdullahKhames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
