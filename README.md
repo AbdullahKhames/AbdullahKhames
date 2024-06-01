@@ -5,9 +5,9 @@ I'm a dedicated and passionate software engineer with a strong focus on backend 
 💻 Software Engineer: Specializing in backend development, with a deep understanding of algorithms, data structures.
 
 ---
-Techincal learinig
-    🎓 ITI Graduate: Successfully completed the 4-month JAVA full stack program, gaining hands-on experience in a wide range of technologies.
-    🎓 ALX SWE Graduate: Successfully completed the 12-month ALX Software Engineering program, gaining hands-on experience in a wide range of technologies.
+🎓 Techincal learning:
+     ITI Graduate: Successfully completed the 4-month JAVA full stack program, gaining hands-on experience in a wide range of technologies.
+     ALX SWE Graduate: Successfully completed the 12-month ALX Software Engineering program, gaining hands-on experience in a wide range of technologies.
 ---
 🌍 Collaborative & Knowledge Sharing: I thrive in collaborative environments and love sharing knowledge with others.
 ---
